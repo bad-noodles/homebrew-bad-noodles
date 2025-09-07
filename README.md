@@ -1,4 +1,4 @@
-# Bad-noodles Bad-noodles
+# Bad-noodles
 
 ## How do I install these formulae?
 
