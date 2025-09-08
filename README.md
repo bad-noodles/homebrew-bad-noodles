@@ -13,6 +13,11 @@ tap "bad-noodles/bad-noodles"
 brew "<formula>"
 ```
 
+| Formulae name | Link |
+|-----|-------------|
+| `keycastr-cli` | https://github.com/bad-noodles/keycastr-cli |
+| `screen2gif` | https://github.com/bad-noodles/screen2gif |
+
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
