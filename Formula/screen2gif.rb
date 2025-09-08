@@ -1,8 +1,8 @@
 class Screen2gif < Formula
   desc "MacOS command-line tool that records your screen and converts it to a GIF"
   homepage "https://github.com/bad-noodles/screen2gif"
-  url "https://github.com/bad-noodles/screen2gif/archive/refs/tags/0.0.1.tar.gz"
-  sha256 "8522f26bf19b4a541dd19e1b3092f3e021a8c709d2f05cd2f91ce6134a1e6e41"
+  url "https://github.com/bad-noodles/screen2gif/archive/refs/tags/0.0.2.tar.gz"
+  sha256 "3fb41672550f8749d2d8710db3d93eaf3dcf695dca31de502bba9705e321614c"
   license "GPL-3.0-or-later"
   head "https://github.com/bad-noodles/screen2gif.git", branch: "main"
 
